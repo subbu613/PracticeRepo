@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/array/problems/SpiralMatrix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/com/algorithms/recursion/Comninations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/com/algorithms/recursion/DivideAndConcur.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/com/algorithms/recursion/PasswordCracker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/com/algorithms/recursion/Permutations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/ds/lists/arraylist/ArrayList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/ds/lists/arraylist/ArrayListClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/greedy/CoinChangeGreedyWay.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/strings/s1containss2/s1containss2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/bin/web/electronic/ehr/emr_framework.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/src/com/hfc/bl/pharmacy/NewCropServicesBL.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/src/com/hfc/dao/pharmacy/DrugReviewDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/src/com/hfc/ui/action/ehr/eprescribing/DrugReviewAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/src/main/resources/resources/properties.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/src/resources/properties.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/test_large_db/com/hfc/bl/pharmacy/TestNewCropServicesBLForSupport5053.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/test_large_db/com/hfc/ui/action/ehr/eprescribing/TestDrugInteraction_AlertMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/test_large_db/com/hfc/ui/action/ehr/eprescribing/TestNewDrugReviewAction_AlertMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/test_large_db/com/hfc/ui/action/ehr/eprescribing/TestNewDrugReviewAction_Allergy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/test_large_db/com/hfc/ui/action/ehr/eprescribing/TestNewDrugReviewAction_AllertMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/test_large_db/com/hfc/ui/action/ehr/eprescribing/TestNewDrugReviewAction_Disease.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/project/meditouch/test_large_db/com/hfc/ui/action/ehr/eprescribing/TestNewDrugReviewAction_Drug.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
